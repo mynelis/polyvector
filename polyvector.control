@@ -1,0 +1,4 @@
+comment = 'Dynamic polyvector composite type on top of pgvector'
+default_version = '1.0'
+relocatable = true
+requires = 'vector'
